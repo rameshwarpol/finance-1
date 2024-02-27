@@ -1,0 +1,51 @@
+            <div class="customer row">
+                <div class="customer-1 col-4" >
+                    <h5 style="background-color:lightgrey;">
+                    <br><br>
+                    <p style="font-family:cursive;color: black;">
+                        We are delighted with the <br> service we have received <br> from Rajureshwar Financial Services & Consultancy since we <br>
+                        began working with
+                        them. The team are <br> friendly and approachable and <br> throughout a period of change we have
+                        <br> felt
+                        confident
+                   
+                    <img src="face1.jpg" alt="" width="50px" height="50px">
+                    <p>Jonh Methew</p>
+                    <p>CEO & Foundr Crix</p>
+                    </h5>
+                </p>
+                </div>
+            
+
+            <div class="customer-1 col-4">
+                <h5 style="background-color:lightgrey;">
+                    <br><br>
+                    <p style="font-family:cursive;color: black;">
+                        Following our move to Rajureshwar Financial Services & Consultancy, we <br> have been delighted by the advice and <br> support
+                        provided. All our issues can be <br> addressed by the one team, from a <br> pay coding notice
+                        query.<br>
+                    
+                    <img src="face2.jpg" alt="" width="50px" height="50px">
+                    
+                    <p>Catherine Gilbert</p>
+                    <p>Director at Initech</p>
+                </h5>
+            </p> 
+            </div>
+
+            <div class="customer-1 col-4">
+                <h5 style="background-color:lightgrey;">
+                    <br><br>
+                    <p style="font-family:cursive;color: black;">
+                        As each of my businesses has grown, <br> Rajureshwar Financial Services & Consultancy have supported me in <br> achieving the
+                        appropriate business <br> This has enabled me to incentivise my key <br> people in each company
+                        with <br> a relevant equity interest.
+                    
+                    <img src="face3.jpg" alt="" width="50px" height="50px">
+                    
+                    <p>Adam Chiese</p>
+                    <p>Director at info</p>
+                </h5>
+            </p> 
+            </div>
+        </div>
